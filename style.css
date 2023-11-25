@@ -1,0 +1,10 @@
+body {
+	background-color: #2A5FFF;
+}
+
+p, h1 {
+	font-size: 50pt;
+	font-family: 'Product Sans', sans-serif;
+	color: #00F6F6;
+	text-align: center;
+}
